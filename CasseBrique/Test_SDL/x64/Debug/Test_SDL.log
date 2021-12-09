@@ -1,0 +1,5 @@
+﻿  Briques.cpp
+  main.cpp
+D:\Ludus\Ludus Bachelor\Algo\CasseBrique\Test_SDL\main.cpp(111,43): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  Génération de code en cours...
+  Test_SDL.vcxproj -> D:\Ludus\Ludus Bachelor\Algo\CasseBrique\x64\Debug\Test_SDL.exe
